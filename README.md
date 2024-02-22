@@ -1,7 +1,7 @@
 # ✨ Ghazi's Portfolio 
 Welcome to my data portfolio! Here, I document a summary of my projects.
 ## 📄 Table of Contents
-+ <a href="SQL"> SQL </a>
++ <a href="#SQL"> SQL </a>
 + Lorem
 + Lorem
 + Lorem
