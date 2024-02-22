@@ -1,12 +1,12 @@
 # ✨ Ghazi's Portfolio 
 Welcome to my data portfolio! Here, I document a summary of my projects.
 ## 📄 Table of Contents
-+ <a href="#SQL"> SQL </a>
-+ Lorem
-+ Lorem
++ <a href="#sql"> SQL </a>
++ <a href="#python"> Python </a>
++ <a href="#tableau"> Tableau </a>
 + Lorem
 
-## <a id="SQL"> SQL </a>
+## <a id="sql"> SQL </a>
 <table>
   <tr>
     <th>1 Project Link</th>
@@ -33,7 +33,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
   </tr>
 </table>
 
-## Python
+## <a id="python"> Python </a>
 <table>
   <tr>
     <th>Project Link</th>
@@ -60,7 +60,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
   </tr>
 </table>
 
-## Tableau
+## <a id="tableau"> Tableau </a>
 <table>
   <tr>
     <th>Project Link</th>
