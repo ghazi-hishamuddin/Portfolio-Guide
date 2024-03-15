@@ -19,10 +19,9 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
     <td>This project involved SQL database design, custom query writing, and dashboard creation using a BI tool. Through simulated real-world scenarios, I gained hands-on experience in end-to-end project execution, from client briefing to dashboard delivery.</td>
   </tr>
   <tr>
-    <td>2 Lorem ipsum dolor sit amet.</td>
-    <td>2 Lorem</td>
-    <td>2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
+    <td>🏆 <a href="https://github.com/ghazi-hishamuddin/8-Week-SQL">8-Week SQL Challenge</a></td>
+    <td>SQL Querying</td>
+    <td> This repository serves as my solution for the 8-week SQL challenge provided by Data with Danny. The primary objective of undertaking this challenge is to evaluate and demonstrate my technical proficiency in handling complex SQL queries. Throughout the challenge, I will exclusively utilize PostgreSQL to complete the tasks and showcase my skills in querying databases.</td>
   </tr>
   <tr>
     <td>3 Lorem ipsum dolor sit amet.</td>
