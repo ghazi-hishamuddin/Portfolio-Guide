@@ -34,7 +34,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
 ## <a id="python"> Python </a>
 <table>
   <tr>
-    <td>🏋️ <a href='https://github.com/ghazi-hishamuddin/IPF-EDA'>Powerlifting Data Analysis</th>
+    <td>🏋️ <a href='https://github.com/ghazi-hishamuddin/IPF-EDA/blob/main/ipf_EDA.ipynb'>Powerlifting Data Analysis</th>
     <td>Data Wrangling, Data Cleaning, EDA, Linear Regression</th>
     <td>This project involves utilizing Python to analyze a dataset consisting of 1.2 million records from competitions organized by the International Powerlifting Federation (IPF). The project aims to develop expertise in data cleaning and data wrangling by thoroughly processing the dataset to ensure its accuracy and suitability for analysis. Through linear regression analysis, the aim is to uncover correlations and relationships within the dataset, specifically focusing on identifying the variables that contribute to the total weight lifted during powerlifting competitions.</th>
   </tr>
