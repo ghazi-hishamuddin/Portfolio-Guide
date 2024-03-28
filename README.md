@@ -40,7 +40,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
   </tr>
   <tr>
     <td>🍗 <a href='https://github.com/ghazi-hishamuddin/FoodPanda-Sentiment-Analysis'> FoodPanda Reviews Sentiment Analysis</a> </td>
-    <td>1 HuggingFace Transformers, Sentiment Analysis, EDA</td>
+    <td>Data Wrangling, HuggingFace Transformers, Sentiment Analysis, EDA</td>
     <td>1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
       reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
   </tr>
