@@ -43,18 +43,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
     <td>Data Wrangling, HuggingFace Transformers, Sentiment Analysis, EDA</td>
     <td>This project analyzes customer reviews of a food delivery app to gain insights into the key drivers of user satisfaction and dissatisfaction. By generating word clouds for positive and negative reviews, the analysis identifies the prevalent themes and sentiments expressed by users. This analysis provides valuable information to the app's stakeholders, enabling them to make data-driven decisions and implement targeted improvements to enhance the overall user experience. The goal is to empower the developers and product managers to address the identified pain points and capitalize on the app's strengths, ultimately driving continuous improvement in the competitive food delivery market.</td>
   </tr>
-  <tr>
-    <td>2 Lorem ipsum dolor sit amet.</td>
-    <td>2 Lorem</td>
-    <td>2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-  </tr>
-  <tr>
-    <td>3 Lorem ipsum dolor sit amet.</td>
-    <td>3 Lorem</td>
-    <td>3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-  </tr>
 </table>
 
 ## <a id="tableau"> Tableau </a>
