@@ -4,7 +4,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
 + <a href="#sql"> SQL </a>
 + <a href="#python"> Python </a>
 + <a href="#tableau"> Tableau </a>
-+ Lorem
 
 ## <a id="sql"> SQL </a>
 <table>
@@ -24,15 +23,19 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
     <td> This repository serves as my solution for the 8-week SQL challenge provided by Data with Danny. The primary objective of undertaking this challenge is to evaluate and demonstrate my technical proficiency in handling complex SQL queries. Throughout the challenge, I will exclusively utilize PostgreSQL to complete the tasks and showcase my skills in querying databases.</td>
   </tr>
   <tr>
-    <td>3 Lorem ipsum dolor sit amet.</td>
-    <td>3 Lorem</td>
-    <td>3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
 </table>
 
 ## <a id="python"> Python </a>
 <table>
+  <tr>
+    <th>Project Link</th>
+    <th>Area</th>
+    <th>Project Description</th>
+  </tr>
   <tr>
     <td>🏋️ <a href='https://github.com/ghazi-hishamuddin/openpowerlifting_ipf_eda'>Powerlifting Data Analysis</th>
     <td>Data Wrangling, Data Cleaning, EDA, Linear Regression</th>
@@ -43,6 +46,12 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
     <td>Data Wrangling, HuggingFace Transformers, Sentiment Analysis, EDA</td>
     <td>This project analyzes customer reviews of a food delivery app to gain insights into the key drivers of user satisfaction and dissatisfaction. By generating word clouds for positive and negative reviews, the analysis identifies the prevalent themes and sentiments expressed by users. This analysis provides valuable information to the app's stakeholders, enabling them to make data-driven decisions and implement targeted improvements to enhance the overall user experience. The goal is to empower the developers and product managers to address the identified pain points and capitalize on the app's strengths, ultimately driving continuous improvement in the competitive food delivery market.</td>
   </tr>
+  <tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
+  </tr>
+      
 </table>
 
 ## <a id="tableau"> Tableau </a>
@@ -53,21 +62,12 @@ Welcome to my data portfolio! Here, I document a summary of my projects.
     <th>Project Description</th>
   </tr>
   <tr>
-    <td>1 Lorem ipsum dolor sit amet.</td>
-    <td>1 Lorem</td>
-    <td>1 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
   </tr>
   <tr>
-    <td>2 Lorem ipsum dolor sit amet.</td>
-    <td>2 Lorem</td>
-    <td>2 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-  </tr>
-  <tr>
-    <td>3 Lorem ipsum dolor sit amet.</td>
-    <td>3 Lorem</td>
-    <td>3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-      reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</td>
-  </tr>
+    <td>-</td>
+    <td>-</td>
+    <td>-</td>
 </table>
